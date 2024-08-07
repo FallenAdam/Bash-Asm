@@ -1,0 +1,2 @@
+Bạn có thể tham khảo phần tiến trình trong shell script tại đây.
+Bạn có thể tham khảo phần in ra thông tin bộ nhớ trong shell script tại đây.
